@@ -1,11 +1,12 @@
 ---
 
-## 🚀 Roadmap
-- ✅ Whitepaper v0.5 published  
-- ✅ GitHub repository live  
-- ✅ Pepix Holder verification system on Discord  
-- ⏳ Pepix15 milestone + honorary gifting period  
-- ⏳ Full catalogue release of traits & rarities  
+## 🔮 Roadmap
+
+- ✅ Pepix Whitepaper v0.6 published  
+- ✅ Catalogue + trait system launched  
+- ⏳ Pepix15 milestone → public trait catalogue release  
+- ⏳ Honorary Pepix gifting (rarity 8–10) to key Pepecoin contributors  
+- ⏳ Multi-sig Creator Wallet transition  
 
 ---
 
