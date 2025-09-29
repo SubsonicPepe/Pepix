@@ -1,47 +1,69 @@
-# Pepix Changelog  
+# Pepix Project Changelog
 
-All notable changes to the Pepix project will be documented in this file.  
-This project follows a simple versioning system tied to **Whitepaper releases**.  
-
----
-
-## [v0.5] — September 28, 2025  
-### Added  
-- Timestamped whitepaper for legitimacy and clarity  
-- **Verification Process** section detailing holder verification and resale procedure  
-- **Supply and Governance** capped at 4,269 Pepix (excluding honorary gifts)  
-- **Addendum v0.2** introducing the Honorary Pepix gifting period for Pepecoin founders, developers, and moderators  
-- **Addendum v0.3** introducing weighted voting with anti-whale mechanism  
-- Markdown version of the whitepaper (`Pepix_Whitepaper_v0.5.md`) for GitHub visibility  
-
-### Changed  
-- All references updated from “Whitepages” → “Whitepaper”  
-- Governance timeline revised: removed October 2035 deadline, clarified supply creation depends on community demand and PEPE market value  
+All notable changes to the Pepix Whitepaper and project documentation will be recorded here.  
+Dates are UTC timestamps from when each version was finalized.  
 
 ---
 
-## [v0.3] — September 27, 2025  
-### Added  
-- Initial **rarity scale** and **price tiers** (1–10)  
-- **Trait system** with rules for Ultra-Legendary trait retirement  
-- **Verification and Provenance** system tied to creator wallet  
-- First **Foundational Entry**: Pepix1 (Base Pepix) with image/text Tx IDs  
-- **Addendum v0.1**: catalogue release after Pepix15 and community governance introduction  
-
-### Changed  
-- Clarified inscription fee: 420 PEPE (image + text inscription)  
-- Updated artistic authorship to emphasize all Pepix are handcrafted by Subsonic_Ᵽepe  
-- Added allocation of 50% of sales revenue toward inscription fees for new Pepix  
+## [v0.7] — 2025-09-29
+### Added
+- Updated **Verification Process** to use **dust transaction + memo** only.  
+  - Removed references to verification bots.  
+  - Verification is now manual, on-chain, and fully transparent.  
+- **Addendum v0.4 — Initial Deposit**:  
+  - Recorded creator’s upfront deposit (TxID: 8f34622eccafc5aa4eb2d69119081b83372493cf9c84879bc66d398ef5aef1fe).  
+  - Funds cover Pepix2–15 and 10–15 honorary Pepix.  
+- Published **HOW_TO_VERIFY.md** guide and Discord-friendly pinned message.  
 
 ---
 
-## [v0.1] — September 26, 2025  
-### Added  
-- First drafted outline of Pepix project (whitepages → renamed later to whitepaper)  
-- Defined project concept: pixel-art Pepix sprites on the Pepecoin blockchain  
-- Early rarity structure and inscription fee proposal  
-- Commitment that all Pepix are inscribed strictly through the **Creator Wallet**:  
-  `PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx`  
+## [v0.6] — 2025-09-28
+### Added
+- Integrated **Trust Playbook** section (wallet transparency, public accounting, immutable supply, no stealth mints, council governance, audit openness).  
+- Added **Creator Wallet Policy** section:
+  - 50%+ of proceeds earmarked for inscriptions.  
+  - Roadmap for multi-sig transition and potential auto-split mechanics.  
+
+### Changed
+- Unified terminology: all mentions of "whitepages" updated to **Whitepaper**.  
+- Updated **Supply and Governance** section to reflect capped supply of **4,269 Pepix**.  
 
 ---
+
+## [v0.5] — 2025-09-28
+### Added
+- Governance clarified: voting weights with **anti-whale** mechanics (top 5 Pepix full weight, remainder at 50%).  
+- **Honorary Pepix gifting rules** detailed (rarity 8–10 Pepix, non-transferable, blacklisting rules).  
+- Explicit note that **supply timeline** is flexible, dependent on market conditions and creator/community resources.  
+
+---
+
+## [v0.4] — 2025-09-28
+### Added
+- **Addendum v0.2**: honorary Pepix gifting plan (rarity 8–10 for Pepecoin founders, devs, and mods).  
+- **Addendum v0.3**: anti-whale weighted collector voting system.  
+
+---
+
+## [v0.3] — 2025-09-27
+### Added
+- **Foundational Entry (Pepix1)** recorded with Tx IDs and inscription text.  
+- **Addendum v0.1**: trait catalogue release scheduled after Pepix15 inscription.  
+- Supply and governance details linked to community voting.  
+
+---
+
+## [v0.2] — 2025-09-27
+### Added
+- **Verification Process** (original version): included cryptic text inscription return flow.  
+- Pricing and rarity scale expanded with PEPE → USD approximations.  
+
+---
+
+## [v0.1] — 2025-09-27
+### Added
+- Initial Pepix Whitepages drafted (Project Overview, Trait System, Fees, Rarity tiers).  
+- Defined 10-point rarity scale.  
+- Declared **Creator Wallet** as only source of genuine Pepix inscriptions.  
+
 
