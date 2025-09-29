@@ -11,7 +11,7 @@ PEPIX-VERIFY-<PepixID>-<DiscordHandle>-
 Example:
 PEPIX-VERIFY-Pepix7-@CoolFrog#1234    
 
-You will then receive a specific dust amount as your nonce (Nintondo wallet does not currently support memos/ signing messages on pepecoin network)
+A member of the team will then assign you a NONCE DUST AMT IN PEPE (Nintondo wallet does not currently support memos/ signing messages on pepecoin network)
 
 ---
 
@@ -22,7 +22,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 
 The Creator team will manually check that:  
 1. The Tx originated from the wallet holding your Pepix.  
-2. The "nonce" amount matches your Pepix ID and Discord handle.  
+2. The "nonce" amount matches your Pepix ID and Discord handle.
 
 ---
 
