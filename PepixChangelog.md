@@ -4,6 +4,21 @@ All notable changes to the Pepix Whitepaper and project documentation will be re
 Dates are UTC timestamps from when each version was finalized.  
 
 ---
+## [v0.8] — 2025-09-29
+### Added
+- **Transfer of Ownership Policy**:
+  - Sales must be announced in #sales-channel with TxID + buyer details.
+  - Buyers must re-verify using dust nonce process.
+  - Role advancement re-verification introduced.
+- **Verification Process Updated**:
+  - Moved from memo-based to **nonce dust amounts** due to Nintondo.io limitations.
+  - Fully manual, on-chain, no phishing risk.
+- **Future Roadmap**:
+  - Decentralized creation possible after Pepix420 under strict rules.
+  - New creators submit TxIDs for approval and cataloguing.
+  - Pepix supply cap (4269) remains immutable.
+  - Any post-cap Pepix = Novelty Pepix (not catalogued).
+
 
 ## [v0.7] — 2025-09-29
 ### Added
