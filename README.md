@@ -43,7 +43,8 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 ## 🔮 Roadmap
 
 - ✅ Pepix Whitepaper v0.6 published  
-- ✅ Catalogue + trait system launched  
+- ✅ Catalogue + trait system launched
+- ⏳ Holder verification system in place for holder roles and benefits
 - ⏳ Pepix15 milestone → public trait catalogue release  
 - ⏳ Honorary Pepix gifting (rarity 8–10) to key Pepecoin contributors  
 - ⏳ Multi-sig Creator Wallet transition  
