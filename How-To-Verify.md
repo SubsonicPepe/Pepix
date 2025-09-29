@@ -13,8 +13,6 @@ PEPIX-VERIFY-Pepix7-@CoolFrog#1234
 
 You will then receive a specific dust amount as your nonce (Nintondo wallet does not currently support memos/ signing messages on pepecoin network)
 
-
-Once confirmed, you’ll receive the Pepix Holder role and access to Lilypad + exclusive channels.
 ---
 
 ## Step 2: Send NONCE DUST AMT PEPE from the wallet holding your Pepix → Creator Wallet:
@@ -34,6 +32,7 @@ Once confirmed, you will be granted the **Pepix Holder** role.
 - You’ll unlock the **Lilypad** and other exclusive channels.  
 - Your Pepix includes a private cryptic text inscription, it will be sent to you after verification.  
 
+Once confirmed, you’ll receive the Pepix Holder role and access to Lilypad + exclusive channels.
 ---
 
 ## TL;DR
