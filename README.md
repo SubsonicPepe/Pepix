@@ -26,11 +26,8 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 ---
 
 ## 📒 Project Files
-
-- [Catalogue of Pepix](./CATALOGUE.md)  
-- [Trait Catalogue](./TRAITS.md)  
-- [Holder Benefits](./HolderBenefits.md)  
-- [Rarity Ranking](./RARITY.md)  
+  
+- [Holder Benefits](./HolderBenefits.md)   
 - [Trust Playbook](./TRUST_PLAYBOOK.md)  
 
 ---
