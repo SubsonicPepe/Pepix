@@ -37,7 +37,51 @@ Pepix Holder benefits will expand over time as the project and community grow.
 Upcoming and potential benefits include:  
 - Early access to trait catalogues and rarity data  
 - Eligibility for future governance polls and proposals  
-- Exclusive claim rights to future Pepix-inspired collaborations and events  
+- Exclusive claim rights to future Pepix-inspired collaborations and events
+
+---
+
+# Pepix Rarity Roles  
+
+Pepix holders are recognized in the Pepix Pond Discord server with unique roles based on the rarity of their Pepix sprites.  
+These roles allow collectors to showcase their holdings, connect with others, and gain special recognition in the community.  
+
+---
+
+## 🐸 Rarity Role Ladder  
+
+- **Rarity 1 – Base Pepix** → *Lilypadling*  
+- **Rarity 2 – Common** → *Tadpole*  
+- **Rarity 3 – Uncommon** → *Pond Hopper*  
+- **Rarity 4 – Rare** → *Bog Dweller*  
+- **Rarity 5 – Super Rare** → *Swamp Seer*  
+- **Rarity 6 – Epic** → *Lotus Keeper*  
+- **Rarity 7 – Legendary** → *Frog Shaman*  
+- **Rarity 8 – Mythic** → *Elder of the Pond*  
+- **Rarity 9 – Ultra-Rare** → *Chosen of Kek*  
+- **Rarity 10 – Ultra-Legendary** → *Grand Wizard of the Pond*  
+
+---
+
+## 🏅 Honorary Roles  
+
+Some Pepix sprites (rarity 8–10) will be gifted directly to **key Pepecoin community members** — including founders, developers, and moderators — after Pepix15 is inscribed.  
+
+- These honorary Pepix are **non-transferable**  
+- Honorary holders receive a **distinct role**:  
+
+**Honorary Frogfather / Frogmother** 🐸👑  
+
+This role is **separate from the rarity ladder** to preserve collector value while honoring community contributions.  
+
+---
+
+## ⚠️ Role Display Rules  
+
+- Holders with multiple Pepix across rarities will display **their highest rarity role**  
+- All holders retain access to **Pepix Holder** base privileges (Lilypad access, sales announcements, etc.) regardless of rarity  
+- Honorary Frogfathers/Frogmothers are **permanently recognized** but do not count toward collectible rarity roles  
+
 
 ---
 
