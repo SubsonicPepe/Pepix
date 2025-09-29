@@ -28,7 +28,8 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 ## 📒 Project Files
   
 - [Holder Benefits](./HolderBenefits.md)   
-- [Trust Playbook](./Trust_Playbook.md)  
+- [Trust Playbook](./Trust_Playbook.md)
+- [How to Verify](./How-To-Verify.md)
 
 ---
 
