@@ -22,7 +22,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 
 The Creator team will manually check that:  
 1. The Tx originated from the wallet holding your Pepix.  
-2. The memo matches your Pepix ID and Discord handle.  
+2. The "nonce" amount matches your Pepix ID and Discord handle.  
 
 ---
 
