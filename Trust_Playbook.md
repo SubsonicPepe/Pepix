@@ -10,7 +10,8 @@ This playbook outlines the safeguards and commitments that make Pepix **rug-resi
 - All Pepix inscriptions originate **only** from the official Creator Wallet:  PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 
   - No side wallets, hidden mints, or off-chain asset generation will ever be used.  
-- Collectors can independently verify **all provenance and history** on-chain by reviewing transactions tied to this wallet.  
+- Collectors can independently verify **all provenance and history** on-chain by reviewing transactions tied to this wallet.
+- After the Advisory Council is elected, A new wallet will be made specifically to store the 50% earmarked sales for Pepix inscription fees. The Advisory Council (and any curious member really) will have read-only oversight to make sure funds are being allocated correctly. As the project grows, new trust measures will be implemented (ie. Multi-Sig wallets, Escrow contract, etc)
 
 ---
 
