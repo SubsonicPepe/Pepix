@@ -4,26 +4,23 @@ Verification is required to unlock the **Pepix Holder** role in Discord. This pr
 
 ---
 
-## Step 1: Send a Dust Transaction
-From the wallet that currently holds your Pepix:
+## Step 1: Send a Request to verify in `#Ready2Verify`
+In the memo / message field, include the following format:
+PEPIX-VERIFY-<PepixID>-<DiscordHandle>-
 
-- Send **0.001 PEPE** (dust amount) to the official Creator Wallet:  
-PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
+Example:
+PEPIX-VERIFY-Pepix7-@CoolFrog#1234    
+
+You will then receive a specific dust amount as your nonce (Nintondo wallet does not currently support memos/ signing messages on pepecoin network)
 
 
-- In the **memo / message field**, include the following format:  
-PEPIX-VERIFY-<PepixID>-<your Discord handle>-<nonce>
-
-Example:  
-PEPIX-VERIFY-Pepix7-@CoolFrog#1234-ax92k
-
-The `<nonce>` will be provided when you request verification.  
-
+Once confirmed, you’ll receive the Pepix Holder role and access to Lilypad + exclusive channels.
 ---
 
-## Step 2: Submit Your Proof
+## Step 2: Send NONCE DUST AMT PEPE from the wallet holding your Pepix → Creator Wallet:
+PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx 
 - After sending the transaction, copy the **TxID**.  
-- Post it in the `#verification` channel on Discord.  
+- Post it in the `#Ready2Verify` channel on Discord.  
 
 The Creator team will manually check that:  
 1. The Tx originated from the wallet holding your Pepix.  
@@ -35,14 +32,12 @@ The Creator team will manually check that:
 Once confirmed, you will be granted the **Pepix Holder** role.  
 
 - You’ll unlock the **Lilypad** and other exclusive channels.  
-- If your Pepix includes a private cryptic text inscription, it will be sent to you after verification.  
-- If you later sell your Pepix, the buyer must repeat this process.  
+- Your Pepix includes a private cryptic text inscription, it will be sent to you after verification.  
 
 ---
 
 ## TL;DR
-- Send 0.001 PEPE to Creator Wallet with memo:  
-  `PEPIX-VERIFY-<ID>-<discord>-<nonce>`  
+- Request Nonce dust amount, and send to Creator wallet
 - Post TxID in `#verification`.  
 - Get **Pepix Holder** role.  
 
