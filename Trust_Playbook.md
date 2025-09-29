@@ -37,7 +37,7 @@ This playbook outlines the safeguards and commitments that make Pepix **rug-resi
 - The total Pepix supply is **permanently capped** at:  
 **4,269 Pepix** (plus honorary Pepix, which are outside of circulation)  
 - This number will **never be increased or decreased**.  
-- All traits and props are (or will be) catalogued in the [Traits Catalogue](TRAITS.md) for collector reference.  
+- All traits and props are (or will be) catalogued in the [Traits Catalogue](TraitsCatalogue.md) for collector reference.  
 - Ultra-Legendary traits are permanently retired after first use.  
 
 ---
