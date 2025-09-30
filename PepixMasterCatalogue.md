@@ -19,7 +19,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R2  
 - **Traits:** Green skin, blue hat, blue background  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *2f3ed3f85f8a7b2fbcb9825363306ec9ac0830ec03c57315f62d287cb275fddd*  
+- **Text Tx ID:** 2f3ed3f85f8a7b2fbcb9825363306ec9ac0830ec03c57315f62d287cb275fddd 
 - **Inscription Text:**  
   "Blue cap. Green face. Background hums like static in an old TV dream."  
 
@@ -29,7 +29,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R4  
 - **Traits:** Shadow skin, blue hat, gold necklace, cigarette, green background  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *6f1af918348686f10c16b842a96ae89d2f28e5c13320d55dd053b04a560199da*  
+- **Text Tx ID:** 6f1af918348686f10c16b842a96ae89d2f28e5c13320d55dd053b04a560199da  
 - **Inscription Text:**  
   "Shadow walks with smoke in his teeth. Gold clinks when the light bends."  
 
@@ -39,7 +39,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R4  
 - **Traits:** Pink skin, dark shades, gold necklace, dollar sign prop, light blue background  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *13c1060f499d6167c038a2054654925400aa281117b6f44e811e462d93dc11bd*  
+- **Text Tx ID:** 13c1060f499d6167c038a2054654925400aa281117b6f44e811e462d93dc11bd  
 - **Inscription Text:**  
   "Pink mask hides behind black glass. Dollar sigils pulse where silence sells."  
 
@@ -49,7 +49,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R8  
 - **Traits:** Orange skin, blue shirt, gold necklace, blue hat, dark shades, cigarette, dollar sign, red background  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *b2a0b1d5df8c1df9174a6b0461845dd2055468f696a501ef662d8d78cd97b268*  
+- **Text Tx ID:** b2a0b1d5df8c1df9174a6b0461845dd2055468f696a501ef662d8d78cd97b268  
 - **Inscription Text:**  
   "Orange blaze draped in blue. Gold and smoke trade hands under a red sky."  
 
@@ -59,7 +59,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R3  
 - **Traits:** Green skin, red shirt, dark shades, purple background  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *d8ce6a5cbb15b8064e19166ca7dd6ffd0326378b6b7f4eae2ce3d11399842ab8*  
+- **Text Tx ID:** d8ce6a5cbb15b8064e19166ca7dd6ffd0326378b6b7f4eae2ce3d11399842ab8  
 - **Inscription Text:**  
   "Green stare lost behind black panes. Red threads hum under a violet sun."  
 
@@ -69,7 +69,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R6  
 - **Traits:** Purple skin, red shirt, cigarette, dark shades, blue hat, dollar sign prop, yellow background  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *d5bfd18414ae85bff52aa40142706f09377f84d9cdf8e17171e3e3a76bb48dcb*  
+- **Text Tx ID:** d5bfd18414ae85bff52aa40142706f09377f84d9cdf8e17171e3e3a76bb48dcb  
 - **Inscription Text:**  
   "Purple shade crowned in blue. Smoke spirals around yellow coins that never stop spinning."  
 
