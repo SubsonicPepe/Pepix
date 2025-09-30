@@ -9,8 +9,8 @@ Each Pepix blends meme culture, 8-bit artistry, and rarity-driven mechanics, wit
 
 The official Pepix Whitepaper documents all technical, economic, and governance details:  
 
-- [Pepix Whitepaper v0.8 (PDF)](./Pepix_Whitepaper_v0.8.pdf)  
-- [Pepix Whitepaper v0.8 (Markdown)](./Pepix_Whitepaper_v0.8.md)  
+- [Pepix Whitepaper v0.9 (PDF)](./Pepix_Whitepaper_v0.9.pdf)  
+- [Pepix Whitepaper v0.9 (Markdown)](./Pepix_Whitepaper_v0.9.md)  
 
 ---
 
@@ -30,6 +30,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 - [Holder Benefits](./HolderBenefits.md)   
 - [Trust Playbook](./Trust_Playbook.md)
 - [How to Verify](./How-To-Verify.md)
+- [RoadMap](./RoadMap.md)
 
 ---
 
