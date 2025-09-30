@@ -7,7 +7,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 
 ## Pepix1
 - **Rarity:** R1  
-- **Traits:** Standard green skin, neutral eyes, no accessories, no props, solid background  
+- **Traits:** Standard green skin, neutral eyes, no accessories, no props, transparent background  
 - **Image Tx ID:** 8c781ac98abb6e4820e8b694d18249593c20dd65a9290d202a99aff7f9d4047e  
 - **Text Tx ID:** 46704d9150adccca10de123de2fcec652f528050c2be645c621dbcb26fff4ef3  
 - **Inscription Text:**  
