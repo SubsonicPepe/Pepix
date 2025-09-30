@@ -30,7 +30,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 - [Holder Benefits](./HolderBenefits.md)   
 - [Trust Playbook](./Trust_Playbook.md)
 - [How to Verify](./How-To-Verify.md)
-- [RoadMap](./RoadMap.md)
+- [RoadMap](./Roadmap.md)
 
 ---
 
