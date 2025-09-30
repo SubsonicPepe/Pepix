@@ -4,8 +4,13 @@ All notable changes to the Pepix Whitepaper and project documentation will be re
 Dates are UTC timestamps from when each version was finalized.  
 
 ---
+## [v0.9] — 2025-9-30
+### Added
+- **Whitepaper formatting and Readme**:
+  - Formatting for readability and ease of access
+---
 
-## [v0.8] — Updated
+## [v0.8] — 2025-9-29
 ### Added
 - **Transfer of Ownership Policy**:
   - Sales must be announced in #sales-channel with TxID + buyer details.
