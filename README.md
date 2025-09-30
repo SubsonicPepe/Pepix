@@ -31,6 +31,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 - [Trust Playbook](./Trust_Playbook.md)
 - [How to Verify](./How-To-Verify.md)
 - [RoadMap](./Roadmap.md)
+- [Master Catalogue](./Pepix_Master_Catalogue.md)
 
 ---
 
