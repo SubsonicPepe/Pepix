@@ -4,6 +4,24 @@ All notable changes to the Pepix Whitepaper and project documentation will be re
 Dates are UTC timestamps from when each version was finalized.  
 
 ---
+
+## v0.9.1 — Master Catalogue Addition
+**Date:** 2025-09-30  
+
+### Added
+- Created **Pepix Master Catalogue** file in Markdown format.  
+- Populated catalogue entries for **Pepix1 through Pepix7** with rarity, traits, inscription texts, and TxIDs (where available).  
+
+### Notes
+- **Pepix0**: The Creator Pepix (custom honorary, 1/1, never for sale).  
+- **Pepix1**: Fully inscribed (image + text TxIDs included).  
+- **Pepix2–7**: Documented in the Master Catalogue, pending inscription on-chain (TxIDs to be added once confirmed).  
+
+### Next Steps
+- Update catalogue continuously as new Pepix are inscribed.  
+- Maintain Pepix0 as honorary / non-tradeable reference point for the collection.  
+
+---
 ## [v0.9] — 2025-9-30
 ### Added
 - **Whitepaper formatting and Readme**:
