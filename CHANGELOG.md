@@ -5,6 +5,25 @@ Dates are UTC timestamps from when each version was finalized.
 
 ---
 
+## v0.9.2 — README + Proposal Addendum
+**Date:** 2025-10-01  
+
+### Added
+- **README.md** updated with a new **"New News"** section to provide ongoing project updates in one place.  
+- **Addendum Proposal v0.1.1 — Early Creator Program** drafted and published.  
+  - Outlines conditions for opening Early Creator applications after Pepix69 inscription and Advisory Council formation.  
+  - Introduces application requirements, buy-in fee, creator responsibilities, and council oversight framework.  
+
+### Notes
+- This proposal is **exploratory only** — adoption will require community consensus and Advisory Council approval before activation.  
+- README.md changes improve project visibility by making the most recent updates easy to find for visitors.  
+
+### Next Steps
+- Draft **application and review templates** for Early Creator Program (completed and staged).  
+- Optional: Publish a **Whitelisted Early Creators Log.md** if/when program is approved.  
+
+---
+
 ## v0.9.1 — Master Catalogue Addition
 **Date:** 2025-09-30  
 
