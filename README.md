@@ -5,6 +5,14 @@ Each Pepix blends meme culture, 8-bit artistry, and rarity-driven mechanics, wit
 
 ---
 
+## 📢 NEW NEWS
+
+A proposed addendum aimed at community involvement has been set forth for later voting and approval
+
+- [Early Contributor Proposal](./EarlyCreatorProposal.md)
+
+---
+
 ## 📑 Whitepaper
 
 The official Pepix Whitepaper documents all technical, economic, and governance details:  
