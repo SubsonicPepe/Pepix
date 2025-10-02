@@ -10,6 +10,7 @@ Each Pepix blends meme culture, 8-bit artistry, and rarity-driven mechanics, wit
 A proposed addendum aimed at community involvement has been set forth for later voting and approval
 
 - [Early Contributor Proposal](./EarlyCreatorProposal.md)
+- [Proposal For Remaining Funds](./RemainingFundsProposal.md)
 
 ---
 
