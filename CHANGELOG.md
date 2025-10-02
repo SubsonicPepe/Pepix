@@ -3,6 +3,30 @@
 All notable changes to the Pepix Whitepaper and project documentation will be recorded here.  
 Dates are UTC timestamps from when each version was finalized.  
 
+
+---
+
+## v0.9.3 — Governance & Future Funds Proposal
+**Date:** 2025-10-02  
+
+### Added
+- Expanded **README.md** "New News" section with ongoing updates.  
+- Added **Addendum Proposal v0.x — Early Creator Program**, introducing a framework for whitelisted community creators after Pepix69 and Advisory Council formation.  
+- Drafted **Future Allocation of Earmarked Funds Proposal**:  
+  - After the inscription of Pepix4269, the 50% of sales proceeds currently earmarked for inscription fees may be redirected.  
+  - Possible future allocation includes contributions to the **Pepecoin Foundation** or other community-aligned charitable initiatives.  
+  - Final decision to be determined by community governance vote.  
+
+### Notes
+- Pepix0 remains honorary and non-tradeable.  
+- Pepix2–7 are documented in the Master Catalogue but still pending inscription.  
+- Early Creator Program and Charity Allocation are **exploratory proposals** only and require council/community approval before activation.  
+
+### Next Steps
+- Continue building out trait catalogue before Early Creator applications are opened.  
+- Monitor progress of the Pepecoin Foundation for alignment and partnership opportunities.  
+- Community votes will determine activation of both Early Creator Program and post-supply fund allocation.
+
 ---
 
 ## v0.9.2 — README + Proposal Addendum
