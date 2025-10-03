@@ -46,7 +46,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 ---
 
 ## Pepix5
-- **Rarity:** R8  
+- **Rarity:** R6  
 - **Traits:** Orange skin, blue shirt, gold necklace, blue hat, dark shades, cigarette, dollar sign, red background  
 - **Image Tx ID:** *[to be added]*  
 - **Text Tx ID:** b2a0b1d5df8c1df9174a6b0461845dd2055468f696a501ef662d8d78cd97b268  
@@ -71,6 +71,25 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Image Tx ID:** *[to be added]*  
 - **Text Tx ID:** d5bfd18414ae85bff52aa40142706f09377f84d9cdf8e17171e3e3a76bb48dcb  
 - **Inscription Text:**  
-  "Purple shade crowned in blue. Smoke spirals around yellow coins that never stop spinning."  
+  "Purple shade crowned in blue. Smoke spirals around yellow coins that never stop spinning."
 
+---
+
+## Pepix8
+- **Rarity:** R6  
+- **Traits:** Orange Skin, Blue Hoodie, Joint W Green Smoke, Blue Hat, Golden Dollar Sign Prop, Light Blue BG 
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]*  
+- **Inscription Text:**
+  "Orange ember cloaked in blue. Green smoke drifts like coded whispers. Gold signs gleam in the light of false skies."
+  
+---
+
+## Pepix9
+- **Rarity:** R7  
+- **Traits:** Blue Skin, Shadow Hoodie, Joint W Gray Smoke, Orange Cool Shades, Gray Beanie, Shadow Dollar Sign Prop, Green Gradient BG  
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]*  
+- **Inscription Text:**
+  "Blue fades into shadow. Gray smoke curls through orange glass. A dollar phantom lingers where gradients breathe." 
 ---
