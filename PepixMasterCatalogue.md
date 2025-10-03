@@ -79,7 +79,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R6  
 - **Traits:** Orange Skin, Blue Hoodie, Joint W Green Smoke, Blue Hat, Golden Dollar Sign Prop, Light Blue BG 
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *[to be added]*  
+- **Text Tx ID:** 03c453df75965cc46ad835ac3d510a537a69910b116f4edd7432eb3808dedf81 
 - **Inscription Text:**
   "Orange ember cloaked in blue. Green smoke drifts like coded whispers. Gold signs gleam in the light of false skies."
   
@@ -89,7 +89,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R7  
 - **Traits:** Blue Skin, Shadow Hoodie, Joint W Gray Smoke, Orange Cool Shades, Gray Beanie, Shadow Dollar Sign Prop, Green Gradient BG  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *[to be added]*  
+- **Text Tx ID:** 419de0a2560e022c3825a7d7c84bc60f3d53c5fdfc7ba546c73ffa5d4e2f26d1 
 - **Inscription Text:**
   "Blue fades into shadow. Gray smoke curls through orange glass. A dollar phantom lingers where gradients breathe." 
 ---
