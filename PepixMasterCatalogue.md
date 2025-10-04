@@ -99,7 +99,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Rarity:** R6  
 - **Traits:** Purple skin, Light Blue V neck, Gold chain, Nerdy purple glasses, stoned eyes, Blue beanie, Red gradient BG  
 - **Image Tx ID:** *[to be added]*  
-- **Text Tx ID:** *[to be added]* 
+- **Text Tx ID:** f95be8c3d2fa54ba65ad5d4dc1e6d0e3ede5e6242bb1dbe936d7761a291bc63c
 - **Inscription Text:**
   "Purple haze behind pixel lenses. Gold hums low around a sleepy grin. Red light flickers where thoughts melt slow."
   
