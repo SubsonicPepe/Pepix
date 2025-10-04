@@ -5,7 +5,7 @@ Each Pepix blends meme culture, 8-bit artistry, and rarity-driven mechanics, wit
 
 ## Each piece is created *MANUALLY*, paired with a cryptic inscribed text, and a symbolic 420 PEP inscription fee. A tribute to meme culture and a statement against algorithmic oversaturation. 
 ## While other projects chase *quantity*, Pepix pursues *INTENTION*
-## Every byte in Pepix is chosen *by a human*. Every PEP burned is proof of sincerity.
+## Every pixel in a Pepix is chosen and placed *by a human*. Every PEP burned is proof of sincerity.
 ## Pepix is NOT about efficiency. It's about demonstrating that value is made, not mined.
 
 ---
