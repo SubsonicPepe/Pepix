@@ -91,5 +91,16 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 - **Image Tx ID:** *[to be added]*  
 - **Text Tx ID:** 419de0a2560e022c3825a7d7c84bc60f3d53c5fdfc7ba546c73ffa5d4e2f26d1 
 - **Inscription Text:**
-  "Blue fades into shadow. Gray smoke curls through orange glass. A dollar phantom lingers where gradients breathe." 
+  "Blue fades into shadow. Gray smoke curls through orange glass. A dollar phantom lingers where gradients breathe."
+  
+---
+
+## Pepix10
+- **Rarity:** R6  
+- **Traits:** Purple skin, Light Blue V neck, Gold chain, Nerdy purple glasses, stoned eyes, Blue beanie, Red gradient BG  
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]* 
+- **Inscription Text:**
+  "Purple haze behind pixel lenses. Gold hums low around a sleepy grin. Red light flickers where thoughts melt slow."
+  
 ---
