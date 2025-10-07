@@ -51,7 +51,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 
 ## 🌱 Community
 
-- **Discord**: [Pepix Pond](https://discord.gg/ctBynnta) *(invite link LIVE)*  
+- **Discord**: [Pepix Pond]((https://discord.gg/m3Fdw2a8)) *(invite link LIVE)*  
 - **Governance**: After 15 verified holders, an advisory council will be elected to oversee inscription transparency.  
 - **Voting**: Collector voting weights are based on Pepix rarity, with anti-whale mechanics included.  
 
