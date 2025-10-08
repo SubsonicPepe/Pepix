@@ -104,3 +104,53 @@ Each entry is permanent once added, preserving provenance and verification on-ch
   "Purple haze behind pixel lenses. Gold hums low around a sleepy grin. Red light flickers where thoughts melt slow."
   
 ---
+
+## Pepix11
+- **Rarity:** R10 *Halloween Special*  
+- **Traits:** Light Blue Skin, Ghost Sheet, Cemetery BG    
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]*
+- **Inscription Text:**
+  "Light fades through cotton and code. The ghost remembers pixels that once breathed."
+  
+---
+
+## Pepix12
+- **Rarity:** R10 *Halloween Special*  
+- **Traits:** Yellow Skin, Witch Nose, Witch Hat, Black Cape, Purple Flame BG   
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]*
+- **Inscription Text:**
+  "Gold turns to ash under the witching hue. Purple fire hums where spells forget their makers."
+  
+---
+
+## Pepix13
+- **Rarity:** R10 *Halloween Special*  
+- **Traits:** Shadow Skin, Vampire Cape, Fangs, Red Circle BG   
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]*
+- **Inscription Text:**
+  "Shadow bites the loop. Fangs hum in red light, thirsting for another block to bleed."
+  
+---
+
+## Pepix14
+- **Rarity:** R10 *Halloween Special*  
+- **Traits:** Red Skin, Devil Costume, Red Flame BG  
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]*
+- **Inscription Text:**
+  "The red one laughs beneath the fire. Every grin burns another byte of sin."
+  
+---
+
+## Pepix15
+- **Rarity:** R10 *Halloween Special*  
+- **Traits:** Green Skin, Black Robe W Hood, Ghost Face Mask, Gray Smoke BG  
+- **Image Tx ID:** *[to be added]*  
+- **Text Tx ID:** *[to be added]*
+- **Inscription Text:**
+  "The mask sees what eyes can’t. Smoke curls where green faith meets gray fear."
+  
+---
