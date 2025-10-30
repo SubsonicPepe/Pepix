@@ -118,7 +118,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 ## Pepix12
 - **Rarity:** R10 *Halloween Special*  
 - **Traits:** Yellow Skin, Witch Nose, Witch Hat, Black Cape, Purple Flame BG   
-- **Image Tx ID:** *[to be added]*  
+- **Image Tx ID:** f57aeeaba37d3fda34d8f7f9bdcf7a3451bb175ea97e8f1e8d0a742b3b4a7a3f
 - **Text Tx ID:** 39f4d6b70f17e2529dbd8ad846c3213b7ab95e2a7ec0586c17bc6ca5e6af0679
 - **Inscription Text:**
   "Gold turns to ash under the witching hue. Purple fire hums where spells forget their makers."
@@ -128,7 +128,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 ## Pepix13
 - **Rarity:** R10 *Halloween Special*  
 - **Traits:** Shadow Skin, Vampire Cape, Fangs, Red Circle BG   
-- **Image Tx ID:** *[to be added]*  
+- **Image Tx ID:** 32ab0d1813890549c43365773c304cbd419c576bbb43a658a3d0ac5fc15b168b
 - **Text Tx ID:** 2c71a615969f878c06af592dcf445dd6baa486b04344579b53e16b76fa9281eb
 - **Inscription Text:**
   "Shadow bites the loop. Fangs hum in red light, thirsting for another block to bleed."
@@ -138,7 +138,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 ## Pepix14
 - **Rarity:** R10 *Halloween Special*  
 - **Traits:** Red Skin, Devil Costume, Red Flame BG  
-- **Image Tx ID:** *[to be added]*  
+- **Image Tx ID:** a315aa79ff9ac71a23371555eb3d8572882d45dd6afeff900cd473a4112ea9db
 - **Text Tx ID:** fb7fd60da056211e7773ad416cd0ee748d05d5be80ce10aad0c5f84c96fbdffc
 - **Inscription Text:**
   "The red one laughs beneath the fire. Every grin burns another byte of sin."
@@ -148,7 +148,7 @@ Each entry is permanent once added, preserving provenance and verification on-ch
 ## Pepix15
 - **Rarity:** R10 *Halloween Special*  
 - **Traits:** Green Skin, Black Robe W Hood, Ghost Face Mask, Gray Smoke BG  
-- **Image Tx ID:** *[to be added]*  
+- **Image Tx ID:** 5ce5d89dc7ab59025c8383fdc3c5ef02f1d8106b18d0550526b17436b593ec31
 - **Text Tx ID:** f91007b1b33b2360e9f6cc96134bc4cbc67cfad0480c15075de58565cc22190c
 - **Inscription Text:**
   "The mask sees what eyes can’t. Smoke curls where green faith meets gray fear."
