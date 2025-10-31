@@ -17,6 +17,7 @@ A proposed addendum aimed at community involvement has been set forth for later 
 - [Early Contributor Proposal](./EarlyCreatorProposal.md)
 - [Proposal For Remaining Funds](./RemainingFundsProposal.md)
 - [**HALLOWEEN SPECIAL PEPIX ADDED**](https://github.com/SubsonicPepe/Pepix/blob/main/PepixMasterCatalogue.md#pepix11)
+- [Preview of Pepix Chapter 1 + Halloween Specials](./Screenshot2025-10-31025445.png)
 
 --
 
