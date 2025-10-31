@@ -18,6 +18,9 @@ A proposed addendum aimed at community involvement has been set forth for later 
 - [Proposal For Remaining Funds](./RemainingFundsProposal.md)
 - [**HALLOWEEN SPECIAL PEPIX ADDED**](https://github.com/SubsonicPepe/Pepix/blob/main/PepixMasterCatalogue.md#pepix11)
 
+**Pepix2-15 successfully inscribed and listed on Nintondo.io under creator wallet**
+***HONORARY PEPIX GIFTING PERIOD IS UNDERWAY***
+
 ---
 
 ## 📑 Whitepaper
@@ -63,7 +66,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 - ✅ Pepix Whitepaper v0.6 published  
 - ✅ Catalogue + trait system launched
 - ✅ Holder verification system in place for holder roles and benefits
-- ⏳ Pepix15 milestone → public trait catalogue release  
+- ✅ Pepix15 milestone → public trait catalogue release  ***(Catalogue release coming SOON!)***
 - ⏳ Honorary Pepix gifting (rarity 8–10) to key Pepecoin contributors  
 - ⏳ Multi-sig Creator Wallet transition
 - ⏳ New creators added after Pepix420 is succesfully inscribed, introducing further decentralization
