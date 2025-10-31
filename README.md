@@ -18,8 +18,11 @@ A proposed addendum aimed at community involvement has been set forth for later 
 - [Proposal For Remaining Funds](./RemainingFundsProposal.md)
 - [**HALLOWEEN SPECIAL PEPIX ADDED**](https://github.com/SubsonicPepe/Pepix/blob/main/PepixMasterCatalogue.md#pepix11)
 
-**Pepix2-15 successfully inscribed and listed on Nintondo.io under creator wallet**
-***HONORARY PEPIX GIFTING PERIOD IS UNDERWAY***
+--
+
+- *10/31/25* **Pepix2-15 successfully inscribed and listed on Nintondo.io under creator wallet**
+
+-***HONORARY PEPIX GIFTING PERIOD IS UNDERWAY***
 
 ---
 
