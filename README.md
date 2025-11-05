@@ -55,6 +55,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 - [How to Verify](./How-To-Verify.md)
 - [RoadMap](./Roadmap.md)
 - [Master Catalogue](./PepixMasterCatalogue.md)
+- [Accessory Catalogue](./Pepix_Accessory_Catalogue.md)
 
 ---
 
