@@ -97,7 +97,6 @@
 | ChocolateSkin.png        | /Pepix/Skins       |        1.9  | Skins              |
 | YellowSkin.png           | /Pepix/Skins       |        1.9  | Skins              |
 | ShadowSkin.png           | /Pepix/Skins       |        1.89 | Skins              |
-| BlueEyepatch.png         | /Pepix/Accessories |        0.98 | Specatacles        |
 | PinkGhostFaceMask.png    | /Pepix/Accessories |        1.78 | Special            |
 | PurpleRobeWHood.png      | /Pepix/Accessories |        3.72 | Special            |
 | PinkRobeWHood.png        | /Pepix/Accessories |        3.71 | Special            |
@@ -105,6 +104,7 @@
 | NerdyRedGlasses.png      | /Pepix/Accessories |        1.09 | Spectacles         |
 | NavyEyepatch.png         | /Pepix/Accessories |        0.98 | Spectacles         |
 | Monocle.png              | /Pepix/Accessories |        1.17 | Spectacles         |
+| BlueEyepatch.png         | /Pepix/Accessories |        0.98 | Spectacles         |
 | CaptEyePatch.png         | /Pepix/Accessories |        1.23 | Spectacles         |
 | CoolShadesBlack.png      | /Pepix/Accessories |        1.05 | Spectacles         |
 | CoolShadesBlue.png       | /Pepix/Accessories |        1.05 | Spectacles         |
