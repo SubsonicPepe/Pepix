@@ -109,8 +109,7 @@ Supply cap remains 4,269. Pepix beyond this cap are considered **Novelty Pepix**
 After Pepix15 is inscribed, the full catalogue of accessories and rarities will be released.
 
 ### Addendum v0.2 — Honorary Pepix Gifting Period
-After Pepix15, a 30-day gifting period will honor key Pepecoin community members with rarity 8–10 Pepix.  
-Rules: Non-transferable, catalogued as honorary, blacklisted if sold/transferred.  
+After Pepix15, a 30-day gifting period will honor key Pepecoin community members with rarity 10 Pepix.    
 
 ### Addendum v0.3 — Weighted Collector Voting
 Votes are weighted by total Pepix collection value:  
