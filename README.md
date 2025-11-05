@@ -74,6 +74,7 @@ PiZntAfTuqPEiBgovFtPJQrLZ9GTFi77xx
 - ✅ Holder verification system in place for holder roles and benefits
 - ✅ Pepix15 milestone → public trait catalogue release  ***(Catalogue release [COMPLETE!](./Pepix_Accessory_Catalogue.md))***
 - ⏳ Honorary Pepix gifting (rarity 8–10) to key Pepecoin contributors  
+- ⏳ Official release of Pepix Whitepaper v1.0  
 - ⏳ Multi-sig Creator Wallet transition
 - ⏳ New creators added after Pepix420 is succesfully inscribed, introducing further decentralization
 
